@@ -1,4 +1,4 @@
-,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
+City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 1,Hermanus,ZA,63.81,clear sky,-34.4187,19.2345,Misty Waves Boutique Hotel
 12,Punta Arenas,CL,62.71,clear sky,-53.15,-70.9167,Hotel Hain
 15,Gejiu,CN,43.83,overcast clouds,23.306,103.1635,Hongtai Commercial Hotel
